@@ -6,8 +6,8 @@ I enjoy turning practical problems into technology solutions. My background comb
 
 ## Selected projects
 
-### Internal IT Support Knowledge Base — professional experience
-- Develop and maintain searchable troubleshooting resources for a hospital department.
+### SPD Hub — Troubleshooting (professional experience)
+- Develop and maintain the searchable Troubleshooting page within the Sterile Processing Department (SPD) Hub.
 - Create accessible step-by-step instructions and instructional videos to support employee self-service.
 - Internal materials are confidential and are not included.
 
