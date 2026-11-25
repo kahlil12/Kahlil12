@@ -1,16 +1,33 @@
-## Hi there 👋
+# Kahlil Beckles
 
-<!--
-**kahlil12/Kahlil12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Programming graduate | Computing student | Application development, IT support and automation
 
-Here are some ideas to get you started:
+I enjoy turning practical problems into technology solutions. My background combines programming coursework with hands-on hospital department support and AI-assisted personal software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### Internal IT Support Knowledge Base — professional experience
+- Develop and maintain searchable troubleshooting resources for a hospital department.
+- Create accessible step-by-step instructions and instructional videos to support employee self-service.
+- Internal materials are confidential and are not included.
+
+### SlateMage — in development
+An AI-assisted NBA statistics research application. I define feature requirements, guide the interface and iterate on the product. The implementation uses HTML, CSS, JavaScript, Python, JSON and GitHub Actions, with automated tests and scheduled data processing. Data coverage and deployment reliability remain areas of ongoing development. Source is currently private.
+
+### Payout Quest — personal prototype
+An AI-assisted dashboard designed to track funded trading evaluation expenses, payouts, fees and net profitability. I defined the reporting requirements and the need for separate user journals. Implementation and privacy controls require further review before public release.
+
+## Technical background
+- C#, C++, ASP.NET Core MVC, Windows Forms, SQL, MySQL
+- Web development, Git, Power BI and technical documentation
+- Exploring JavaScript, Python, automated testing and data pipelines through personal projects
+
+## Education and certifications
+- Associate degree in Computer Programming
+- Computing studies, University of West Georgia
+- Junior Web Developer, C# Programmer and C++ Programmer certifications
+
+## Professional experience
+Sterile processing technician and sterilization preceptor with additional departmental technical support responsibilities.
+
+I use AI-assisted development tools and am actively strengthening my ability to independently understand, test and maintain the resulting code.
